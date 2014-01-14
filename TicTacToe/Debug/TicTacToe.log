@@ -1,0 +1,16 @@
+﻿Build started 3/11/2013 12:48:37 PM.
+     1>Project "M:\C++\TicTacToe\TicTacToe\TicTacToe.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\TicTacToe.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt TicTacToe.cpp
+         TicTacToe.cpp
+     1>m:\c++\tictactoe\tictactoe\tictactoe.cpp(21): error C2065: 'board' : undeclared identifier
+     1>m:\c++\tictactoe\tictactoe\tictactoe.cpp(21): error C2059: syntax error : ']'
+     1>m:\c++\tictactoe\tictactoe\tictactoe.cpp(21): error C2143: syntax error : missing ';' before '{'
+     1>m:\c++\tictactoe\tictactoe\tictactoe.cpp(21): error C2447: '{' : missing function header (old-style formal list?)
+     1>Done Building Project "M:\C++\TicTacToe\TicTacToe\TicTacToe.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.97
